@@ -5,4 +5,4 @@
 ```
 npx expo export --platform web
 ```
-DEPLOYMENT SUCCESS~!
+DEPLOYMENT SUCCESS~! 🧪👌
